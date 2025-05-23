@@ -48,7 +48,7 @@
     "react-native-web": "^0.20.0",
     "react-native-webview": "13.13.5",
     "tailwindcss": "^3.4.17",
-    "tempo-devtools": "^2.0.102"
+    "tempo-devtools": "^2.0.106"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
